@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi, I'm Harshit Sharma! 👋
-- 🎓 Final year Computer Science dual degree student at the National Institute of Technology, Hamirpur.
+- 🎓 Computer Science dual degree from National Institute of Technology, Hamirpur.
 - 🚀 Passionate about building innovative solutions in Python, Django, React and exploring the world of Machine Learning.
 - 🔧 Technical Skills: Python, C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, Django, DjangoRestFramework, GitHub, MySQL, PyTorch, TensorFlow.
 - 🌱 Currently exploring new projects and technologies, and open to collaborating on exciting ventures.
