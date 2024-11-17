@@ -2,7 +2,7 @@
 ### Hi, I'm Harshit Sharma! 👋
 - 🎓 Computer Science Dual degree from National Institute of Technology, Hamirpur.
 - 🚀 Passionate about building innovative solutions in Python, Django, React and exploring the world of Machine Learning.
-- 🔧 Technical Skills: Python, C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, Django, DjangoRestFramework, Celery, Redis, GitHub, MySQL, MongoDB, PyTorch, TensorFlow.
+- 🔧 Technical Skills: Python, C++, GO, HTML, CSS, JavaScript, ReactJS, NodeJS, Django, DjangoRestFramework, Celery, Redis, GitHub, MySQL, MongoDB, PyTorch, TensorFlow.
 - 🌱 Currently exploring system design and open to collaborating on exciting ventures.
 - 📧 Contact me at hepta1000@gmail.com and connect on [LinkedIn](https://www.linkedin.com/in/harshit-sharma-6b883a193/).
 - Let's code and innovate together!
