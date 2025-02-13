@@ -6,6 +6,7 @@
 - 🔧 Technical Skills: Python, C++, GO, HTML, CSS, JavaScript, ReactJS, NodeJS, Django, DjangoRestFramework, Celery, Redis, GitHub, MySQL, MongoDB, PyTorch, TensorFlow.
 - 🌱 Currently exploring system design and open to collaborating on exciting ventures.
 - 📧 Contact me at hepta1000@gmail.com and connect on [LinkedIn](https://www.linkedin.com/in/harshit-sharma-6b883a193/).
+- Check out my [LeetCode](https://leetcode.com/u/Heptaa/).
 - Let's code and innovate together!
 
 ## 🌐 Socials:
