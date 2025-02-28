@@ -1,5 +1,5 @@
 # 💫 About Me:
-F
+
 ### Hi, I'm Harshit Sharma! 👋
 - 🎓 Computer Science Dual degree ( B.Tech + M.Tech ) from National Institute of Technology, Hamirpur.
 - 🚀 Passionate about building innovative solutions in Python, Django, React and exploring the world of Machine Learning.
