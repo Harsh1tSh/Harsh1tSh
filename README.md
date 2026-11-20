@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Harshit 👋</h1>
+<p align="center">
+  <img src="assets/banner.svg" alt="Harshit Sharma: software engineer, backend, full-stack and applied ML" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/Harsh1tSh">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=640&lines=Software+engineer%3A+backend%2C+full-stack%2C+applied+ML;I+build+things+end+to+end%2C+from+models+to+pixels;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+PyTorch" alt="Software engineer: backend, full-stack, applied ML" />
+  <a href="https://github.com/Harsh1tSh/unmix">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Harshit+%F0%9F%91%8B;I+build+things+end+to+end%2C+from+models+to+pixels;Now+building+Unmix%3A+neural+audio+source+separation;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+PyTorch" alt="Hi, I'm Harshit. I build things end to end, from models to pixels." />
   </a>
 </p>
 
@@ -15,9 +17,8 @@
 I build full-stack and applied-ML products from end to end: **Python/FastAPI** and **TypeScript/React** services, **PyTorch** model pipelines, GPU inference, and graphics and audio in the browser. I care about software that is tested, typed, secure, and fast on ordinary hardware.
 
 - 🎓 Dual degree (B.Tech + M.Tech) in Computer Science, **NIT Hamirpur**
-- 🩺 Backend engineer at **MedScan**, an early-stage health-tech startup: lab-report PDFs into structured, doctor-reviewable results (Qwen + FastAPI), and a NestJS/PostgreSQL platform API
-- 👨‍🏫 Technical trainer at **Galgotias University**: data structures, algorithms and machine learning for 200+ students
 - 🐫 Previously community ambassador at **[CAMEL-AI](https://github.com/camel-ai/camel)** (multi-agent systems, MCP servers)
+- 🎧 Currently building **[Unmix](https://github.com/Harsh1tSh/unmix)**, below
 
 ---
 
@@ -54,6 +55,15 @@ I build full-stack and applied-ML products from end to end: **Python/FastAPI** a
 - **CAMEL-AI**: merged a [README Events section (#2773)](https://github.com/camel-ai/camel/pull/2773)
 - **OWL** (CAMEL-AI's multi-agent assistant): merged a [community use-case example (#434)](https://github.com/camel-ai/owl/pull/434) and a [README update (#439)](https://github.com/camel-ai/owl/pull/439)
 
+## 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh1tSh/Harsh1tSh/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Harsh1tSh/Harsh1tSh/output/github-snake.svg" alt="A snake eating my contribution graph" width="100%" />
+  </picture>
+</p>
+
 ## 🧰 Tech I work with
 
 <p align="center">
@@ -65,6 +75,6 @@ I build full-stack and applied-ML products from end to end: **Python/FastAPI** a
 
 <p align="center"><sub>Also: ONNX Runtime, Whisper, Web Audio API, WebSockets, OpenAPI, Playwright, pytest, Vitest, multi-agent systems and MCP.</sub></p>
 
----
-
 <p align="center"><i>Open to interesting problems and good teams. Say hi on <a href="https://www.linkedin.com/in/harshit-sharma-6b883a193/">LinkedIn</a>.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9A,50:C084FC,100:34D399&height=120&section=footer" alt="" width="100%" />
