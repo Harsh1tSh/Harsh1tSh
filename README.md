@@ -1,24 +1,70 @@
-# 💫 About Me:
+<h1 align="center">Hi, I'm Harshit 👋</h1>
 
-### Hi, I'm Harshit Sharma! 👋
-- 🎓 Computer Science Dual degree ( B.Tech + M.Tech ) from National Institute of Technology, Hamirpur.
-- 🚀 Passionate about building innovative solutions in Python, Django, React and exploring the world of Machine Learning.
-- 🔧 Technical Skills: Python, C++, GO, HTML, CSS, JavaScript, ReactJS, NodeJS, Django, DjangoRestFramework, Celery, Redis, GitHub, MySQL, MongoDB, PyTorch, TensorFlow.
-- 🌱 Currently exploring system design and open to collaborating on exciting ventures.
-- 📧 Contact me at hepta1000@gmail.com and connect on [LinkedIn](https://www.linkedin.com/in/harshit-sharma-6b883a193/).
-- Check out my [LeetCode](https://leetcode.com/u/Heptaa/).
-- Let's code and innovate together!
+<p align="center">
+  <a href="https://github.com/Harsh1tSh">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=640&lines=Software+engineer%3A+backend%2C+full-stack%2C+applied+ML;I+build+things+end+to+end%2C+from+models+to+pixels;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+PyTorch" alt="Software engineer: backend, full-stack, applied ML" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aech700) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/harshit-sharma-6b883a193/) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-sharma-6b883a193/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Heptaa/"><img src="https://img.shields.io/badge/LeetCode-546%20solved%20%C2%B7%20peak%201955-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode: 546 solved, peak rating 1955" /></a>
+  <a href="mailto:hepta1000@gmail.com"><img src="https://img.shields.io/badge/Email-me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+I build full-stack and applied-ML products from end to end: **Python/FastAPI** and **TypeScript/React** services, **PyTorch** model pipelines, GPU inference, and graphics and audio in the browser. I care about software that is tested, typed, secure, and fast on ordinary hardware.
 
+- 🎓 Dual degree (B.Tech + M.Tech) in Computer Science, **NIT Hamirpur**
+- 🩺 Backend engineer at **MedScan**, an early-stage health-tech startup: lab-report PDFs into structured, doctor-reviewable results (Qwen + FastAPI), and a NestJS/PostgreSQL platform API
+- 👨‍🏫 Technical trainer at **Galgotias University**: data structures, algorithms and machine learning for 200+ students
+- 🐫 Previously community ambassador at **[CAMEL-AI](https://github.com/camel-ai/camel)** (multi-agent systems, MCP servers)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+---
 
- <!-- # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harsh1tSh&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1tSh&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+## 🎧 Featured: Unmix
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Pull a recording apart by source.** Talk over a song, or drop any clip, and neural models split it into voices, drums, bass, guitar, piano and the rest, separate your voice from the singer's, and transcribe the lyrics word by word. Free, open source, and it runs on your own machine.
+
+<p align="center">
+  <a href="https://github.com/Harsh1tSh/unmix">
+    <img src="https://raw.githubusercontent.com/Harsh1tSh/unmix/main/docs/media/demo.webp" alt="Unmix: a recording becomes seven sound spheres, then nine stems you can hear one by one" width="85%" />
+  </a>
+</p>
+
+- **Models:** BS-RoFormer, HT-Demucs and MossFormer2 for separation, Whisper for word-timed lyrics; the stems sum exactly back to the mix
+- **Backend:** FastAPI job pipeline with live progress and automatic CUDA / DirectML / Apple / CPU selection with measured fallback (37x faster on a T4 GPU than on CPU)
+- **Frontend:** sample-locked playback of every stem in Web Audio (hover a card to hear one source), a live mode over WebSockets, in-browser inference in WebAssembly, and a WebGL2 particle sphere at 60 fps
+- **Quality:** 170+ automated tests and a full security review
+
+<p align="center"><a href="https://github.com/Harsh1tSh/unmix"><b>→ github.com/Harsh1tSh/unmix</b></a></p>
+
+---
+
+## 🛠️ More things I've built
+
+| Project | What it is | Built with |
+|---|---|---|
+| **LyricLight** *(private for now)* | One photo + a song → a lyric video where the words sit behind the person and their light falls on the scene. Segmentation and depth models, WebGL compositing, H.264 encoded in the browser. | Python, FastAPI, BiRefNet, Depth Anything V2, React, WebGL, WebCodecs |
+| **[Sky Skirmish](https://github.com/Harsh1tSh/sky-skirmish)** | A browser jetpack shooter with 4 modes, 12 weapons and bots, where every sprite and sound is generated in code: no asset files at all. | TypeScript, Vite |
+| **[AI Project Planner](https://github.com/Harsh1tSh/AI-Project-Planner)** | A team of AI agents that turns a project idea into a technical architecture and a timeline. | Python, CAMEL-AI, Mistral, Streamlit |
+| **[AutoMax](https://github.com/Harsh1tSh/Django_app)** | Full-stack car marketplace with token auth, role-based permissions and filtered search. | Django REST, React, PostgreSQL |
+
+## 🌱 Open source
+
+- **CAMEL-AI**: merged a [README Events section (#2773)](https://github.com/camel-ai/camel/pull/2773)
+- **OWL** (CAMEL-AI's multi-agent assistant): merged a [community use-case example (#434)](https://github.com/camel-ai/owl/pull/434) and a [README update (#439)](https://github.com/camel-ai/owl/pull/439)
+
+## 🧰 Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,go,cpp&perline=12" alt="Languages: Python, TypeScript, JavaScript, Go, C++" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,nestjs,react,nextjs,vite,tailwind&perline=12" alt="Frameworks: FastAPI, Django, Node.js, NestJS, React, Next.js, Vite, Tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,postgres,sqlite,mongodb,supabase&perline=12" alt="ML and data: PyTorch, scikit-learn, PostgreSQL, SQLite, MongoDB, Supabase" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,githubactions,linux&perline=12" alt="Infrastructure: Docker, AWS, Cloudflare, GitHub Actions, Linux" />
+</p>
+
+<p align="center"><sub>Also: ONNX Runtime, Whisper, Web Audio API, WebSockets, OpenAPI, Playwright, pytest, Vitest, multi-agent systems and MCP.</sub></p>
+
+---
+
+<p align="center"><i>Open to interesting problems and good teams. Say hi on <a href="https://www.linkedin.com/in/harshit-sharma-6b883a193/">LinkedIn</a>.</i></p>
