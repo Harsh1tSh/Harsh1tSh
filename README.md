@@ -52,8 +52,8 @@ I build full-stack and applied-ML products from end to end: **Python/FastAPI** a
 
 ## 🌱 Open source
 
-- **CAMEL-AI**: merged a [README Events section (#2773)](https://github.com/camel-ai/camel/pull/2773)
-- **OWL** (CAMEL-AI's multi-agent assistant): merged a [community use-case example (#434)](https://github.com/camel-ai/owl/pull/434) and a [README update (#439)](https://github.com/camel-ai/owl/pull/439)
+- **CAMEL-AI**: merged (#2773)](https://github.com/camel-ai/camel/pull/2773)
+- **OWL** (CAMEL-AI's multi-agent assistant): merged a [community use-case example (#434)](https://github.com/camel-ai/owl/pull/434).
 
 ## 🐍 Contributions
 
