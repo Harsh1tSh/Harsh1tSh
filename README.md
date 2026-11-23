@@ -45,6 +45,7 @@ I build full-stack and applied-ML products from end to end: **Python/FastAPI** a
 
 | Project | What it is | Built with |
 |---|---|---|
+| **[DataVisual](https://github.com/Harsh1tSh/datavisual)** · [live](https://harsh1tsh.github.io/datavisual/) | Design a database schema on a canvas and get versioned migration files for Supabase, PostgreSQL, MySQL and SQLite, each following that database's own rules. Imports existing migrations or SQL dumps, runs fully in the browser and never touches a live database. | JavaScript (no framework), SVG, PWA, PGlite, Playwright |
 | **LyricLight** *(private for now)* | One photo + a song → a lyric video where the words sit behind the person and their light falls on the scene. Segmentation and depth models, WebGL compositing, H.264 encoded in the browser. | Python, FastAPI, BiRefNet, Depth Anything V2, React, WebGL, WebCodecs |
 | **[Sky Skirmish](https://github.com/Harsh1tSh/sky-skirmish)** | A browser jetpack shooter with 4 modes, 12 weapons and bots, where every sprite and sound is generated in code: no asset files at all. | TypeScript, Vite |
 | **[AI Project Planner](https://github.com/Harsh1tSh/AI-Project-Planner)** | A team of AI agents that turns a project idea into a technical architecture and a timeline. | Python, CAMEL-AI, Mistral, Streamlit |
